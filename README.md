@@ -26,9 +26,3 @@ This repository showcases the **latest operational build** of the robot. An impr
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── firmware/     # C/C++ source code for sensor polling and motor drive logic
-├── cad/          # FreeCAD source files (.FCStd) and 3D printable files (.STL)
-└── assets/       # Photos of the physical robot and CAD screenshots
